@@ -1,0 +1,7 @@
+&{template:default} {{name=Potion of Healing}} ?{
+    Cast at level |
+    Standard, {{[x](http://macro.pf2.tools/assets/fa/wand-magic.png) Level=Standard &#125;&#125; {{[x](http://macro.pf2.tools/assets/fa/heart.png) Healing=[[2d4+2]] &#125;&#125; |
+    Greater, {{[x](http://macro.pf2.tools/assets/fa/wand-magic.png) Level=Greater &#125;&#125; {{[x](http://macro.pf2.tools/assets/fa/heart.png) Healing=[[4d4+4]] &#125;&#125; |
+    Superior, {{[x](http://macro.pf2.tools/assets/fa/wand-magic.png) Level=Superior &#125;&#125; {{[x](http://macro.pf2.tools/assets/fa/heart.png) Healing=[[8d4+8]] &#125;&#125; |
+    Supreme, {{[x](http://macro.pf2.tools/assets/fa/wand-magic.png) Level=Supreme &#125;&#125; {{[x](http://macro.pf2.tools/assets/fa/heart.png) Healing=[[10d4+20]] &#125;&#125;
+}
