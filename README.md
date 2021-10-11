@@ -1,5 +1,5 @@
 # Roll20 Macros
-My personal repository of Roll20 macros. Feel free to copy and modify to suit your needs
+My personal repository of Roll20 macros.
 
 Credit to http://macro.pf2.tools/ for the icons used in the macros
 
